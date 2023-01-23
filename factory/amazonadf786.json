@@ -1,0 +1,9 @@
+{
+	"name": "amazonadf786",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ed87524-a037-4cdd-aadd-621ca421d912",
+		"tenantId": "cc469819-c0e6-4670-98fd-6b3a6461229a"
+	}
+}
